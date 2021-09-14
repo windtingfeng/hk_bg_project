@@ -1,7 +1,7 @@
 import request from '@/utils/request'
 
 /**
- * 测试接口
+ * 测试接口 //vue-admin-template/test/list
  * @param {*} params
  * @returns
  */
