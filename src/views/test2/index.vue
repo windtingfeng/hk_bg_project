@@ -4,6 +4,7 @@
 
 <script>
 export default {
+  // 添加注释
   data() {
     return {
       key: ''
